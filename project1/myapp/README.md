@@ -1,4 +1,14 @@
-# Getting Started with Create React App
+HomePage:
+![Screenshot 2023-12-13 162010](https://github.com/sanjanashalini/React_IRC/assets/124037563/51a7cdd8-def4-4b9e-a57f-acd91a611d91)
+
+LoginPage:
+![Screenshot (109)](https://github.com/sanjanashalini/React_IRC/assets/124037563/cc190416-1fdf-4d09-9cdd-5d9948d152a4)
+
+SignInPage:
+![Screenshot (110)](https://github.com/sanjanashalini/React_IRC/assets/124037563/f27660b8-c44c-48b0-9188-98a2bc3c5caf)
+
+# Getting
+g Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
