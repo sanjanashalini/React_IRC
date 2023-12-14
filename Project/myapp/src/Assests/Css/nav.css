@@ -1,0 +1,33 @@
+
+div {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    background-color: #191b1c;
+    color: #fff;
+    padding: 5px;
+  }
+  h1 {
+    margin: 0;
+  }
+  
+  nav {
+    margin-right: 2rem;
+    display: flex;
+    gap: 20px;
+    padding-right: 200px;
+  }
+  
+  nav a {
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  nav a:hover {
+    text-decoration: underline;
+  }
+  h1 {
+    margin-left: auto;
+  }
+  
