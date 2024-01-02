@@ -1,0 +1,22 @@
+{
+    "users":[
+    {
+        "id":1,
+        "username":"sanjana",
+        "password":"12334"
+
+    },
+    {
+        "id":2,
+        "username":"sanjana",
+        "password":"12334"
+ 
+    }
+],
+"products":[
+    {
+        "pid":1,
+        "productname":"apple"
+    }
+]
+}
