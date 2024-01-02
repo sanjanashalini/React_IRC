@@ -1,0 +1,44 @@
+/* src/App.css */
+/* ... (previous styles) */
+
+.dashboard-layout {
+    display: flex;
+    height: 100vh;
+  }
+  
+  nav, aside, .main-content {
+    padding: 20px;
+  }
+  
+  nav, aside {
+    background-color: #333;
+    color: white;
+  }
+  
+  nav ul, aside ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  nav li, aside li {
+    margin: 0 10px;
+  }
+  
+  nav ul {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  aside {
+    width: 200px;
+  }
+  
+  .footer {
+    background-color: #333;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    position: sticky;
+    bottom: 0;
+  }
+  
